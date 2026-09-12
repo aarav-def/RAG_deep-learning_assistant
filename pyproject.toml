@@ -8,6 +8,10 @@ dependencies = [
     "streamlit>=1.63.0",
     "python-dotenv",
     "langchain-mistralai",
+    "langchain-chroma",
+    "chromadb",
+    "mistralai",
+    "langchain",
 ]
 
 [project.scripts]
